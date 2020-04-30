@@ -2,7 +2,7 @@
 
 Following exercises of [TecladoCode's 30 Days Of Python](https://blog.tecladocode.com/30-days-of-python/)
 
-Contents
+## Contents
 - Day 0: Getting Set Up 
 - [Day 1](day1.py): Numbers, Arithmetic, and Printing to the Console
 - [Day 2](day2.py): Strings, Variables, and Getting Input from Users
