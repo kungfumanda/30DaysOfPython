@@ -30,3 +30,11 @@ series = [
  ]
 print_show_info(series)
 
+def is_it_palindrome(word):
+    word = word.strip().lower()
+    reverse = word[::-1]
+    if word == reverse:
+        return("It's a palindrome!")
+
+print(is_it_palindrome("Hannah"))
+
