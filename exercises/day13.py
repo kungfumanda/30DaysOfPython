@@ -9,7 +9,7 @@ def process_string(name):
 def organize_data(tup):
     organized = {
         "name": tup[0],
-        "nacionality": tup[1],
+        "nationality": tup[1],
         "age": tup[2]
     }
     return organized
